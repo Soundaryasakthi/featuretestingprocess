@@ -1,0 +1,5 @@
+definitions\stepDefinition.class
+runner\RunCukesTest.class
+definitions\MyStepDefinitions.class
+definitions\Calc1StepDefinitions.class
+com\kgisl\AppTest.class
